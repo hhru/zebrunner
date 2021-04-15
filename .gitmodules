@@ -12,7 +12,7 @@
 	branch = master
 [submodule "mcloud"]
 	path = mcloud
-	url = https://github.com/zebrunner/mcloud.git
+	url = https://github.com/hhru/mcloud.git
 	branch = master
 [submodule "selenoid"]
 	path = selenoid
